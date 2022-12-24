@@ -1,4 +1,4 @@
-# Testing RESTful APIs in Python with requests
+# RESTful API Testing in Python with requests
 
 ## To Get Started
 
